@@ -1,0 +1,16 @@
+[
+  {
+    "id": 2,
+    "username": "demo_user",
+    "email": "demo@example.com",
+    "wallet_balance": "25.00",
+    "is_active": true
+  },
+  {
+    "id": 3,
+    "username": "john_doe",
+    "email": "john@example.com",
+    "wallet_balance": "10.00",
+    "is_active": true
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "merchant": "Amazon",
+    "title": "10% OFF Electronics",
+    "description": "Save 10% on selected electronics at Amazon.",
+    "promotion_type": "coupon",
+    "code": "AMZ10",
+    "discount": "10%",
+    "start_date": "2025-09-01",
+    "expiry_date": "2025-10-15",
+    "is_active": true,
+    "is_featured": true
+  },
+  {
+    "id": 2,
+    "merchant": "eBay",
+    "title": "5€ Cashback on Orders Over 50€",
+    "description": "Get 5€ cashback when you shop for 50€ or more.",
+    "promotion_type": "deal",
+    "code": null,
+    "discount": "5€ Cashback",
+    "start_date": "2025-09-05",
+    "expiry_date": "2025-10-20",
+    "is_active": true,
+    "is_featured": true
+  },
+  {
+    "id": 3,
+    "merchant": "Zalando",
+    "title": "20% OFF Autumn Fashion",
+    "description": "Enjoy 20% discount on Zalando autumn collection.",
+    "promotion_type": "coupon",
+    "code": "FALL20",
+    "discount": "20%",
+    "start_date": "2025-09-10",
+    "expiry_date": "2025-10-30",
+    "is_active": true,
+    "is_featured": false
+  },
+  {
+    "id": 4,
+    "merchant": "MediaMarkt",
+    "title": "Free Shipping on Electronics",
+    "description": "Free shipping for all electronics orders at MediaMarkt.",
+    "promotion_type": "deal",
+    "code": null,
+    "discount": "Free Shipping",
+    "start_date": "2025-09-15",
+    "expiry_date": "2025-10-31",
+    "is_active": true,
+    "is_featured": false
+  },
+  {
+    "id": 5,
+    "merchant": "Otto",
+    "title": "15€ OFF Orders Over 100€",
+    "description": "Save 15€ on all orders above 100€ at Otto.",
+    "promotion_type": "coupon",
+    "code": "OTTO15",
+    "discount": "15€",
+    "start_date": "2025-09-20",
+    "expiry_date": "2025-11-05",
+    "is_active": true,
+    "is_featured": true
+  }
+]

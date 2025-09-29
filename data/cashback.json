@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "user": "demo_user",
+    "merchant": "Amazon",
+    "order_id": "ORD1001",
+    "amount": "100.00",
+    "cashback_amount": "5.00",
+    "status": "pending"
+  },
+  {
+    "id": 2,
+    "user": "demo_user",
+    "merchant": "eBay",
+    "order_id": "ORD1002",
+    "amount": "50.00",
+    "cashback_amount": "2.50",
+    "status": "confirmed"
+  },
+  {
+    "id": 3,
+    "user": "john_doe",
+    "merchant": "Zalando",
+    "order_id": "ORD1003",
+    "amount": "200.00",
+    "cashback_amount": "14.00",
+    "status": "paid"
+  }
+]
